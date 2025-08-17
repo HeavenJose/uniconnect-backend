@@ -1,7 +1,10 @@
 UniConnect - Back-End ⚙️
+
 This repository contains the Node.js, Express, and MongoDB backend for the UniConnect application, a comprehensive digital platform for university students. This server provides a robust RESTful API to handle all data management, user authentication, and business logic for the platform.
 
+
 ⬅️ Link to the Front-End Repository: uniconnect-frontend
+
 
 🚀 Core Functionality
 This backend is designed to support a feature-rich social and academic hub. It manages the data and logic for:
@@ -13,6 +16,7 @@ Data Management: Provides full CRUD (Create, Read, Update, Delete) operations fo
 Relational Data: Manages the relationships between users and their created content (notes, projects, listings, etc.).
 
 Private Messaging: Includes a system for creating and managing private conversations between users related to marketplace listings.
+
 
 🛠️ Tech Stack
 Runtime Environment: Node.js
